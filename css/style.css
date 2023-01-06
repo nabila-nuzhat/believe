@@ -23,11 +23,16 @@ header{
     font-weight: 600;
     padding: 20px 25px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .banner-btn{
     background-color: #F15B22;
     border: 0;
     color: #fff;
+}
+
+.banner-btn:hover{
+    background-color: #f19722;
 }
 
