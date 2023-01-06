@@ -10,3 +10,11 @@ a{
 .common-width{
     width: 1141px;
 }
+
+/* header styles */
+
+header{
+    background-image: url('../images/banner1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
