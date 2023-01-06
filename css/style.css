@@ -11,6 +11,14 @@ a{
     width: 1141px;
 }
 
+.btn-primary{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
 /* header styles */
 
 header{
@@ -18,18 +26,26 @@ header{
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;
+    text-align: right;
 }
 
-.banner{
+/* .banner{ 
     padding: 216px 230px 186px 0;
 }
+*/
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: #151414;
+    padding-top: 216px;
+    padding-right: 230px;
+    margin-left: 500px;
+}
 
-.btn-primary{
-    font-size: 20px;
-    font-weight: 600;
-    padding: 20px 25px;
-    border-radius: 5px;
-    cursor: pointer;
+.banner-description{
+    margin-bottom: 31px;
 }
 
 .banner-btn{
