@@ -17,3 +17,10 @@ header{
     background-image: url('../images/banner/banner1.png');
     background-size: cover;
     background-repeat: no-repeat;}
+
+.btn-primary{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 25px;
+    border-radius: 5px;
+}
