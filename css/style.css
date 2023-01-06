@@ -29,10 +29,7 @@ header{
     text-align: right;
 }
 
-/* .banner{ 
-    padding: 216px 230px 186px 0;
-}
-*/
+
 .banner-title{
     font-weight: 700;
     font-size: 65px;
@@ -40,18 +37,29 @@ header{
     text-align: right;
     color: #151414;
     padding-top: 216px;
-    padding-right: 230px;
+    line-height: 76px;
+    margin-bottom: 24px;
+/* banner item align right draft */
+    padding-right: 150px;
     margin-left: 500px;
+    
 }
 
 .banner-description{
     margin-bottom: 31px;
+    line-height: 26px;
+/* banner item align right draft */
+    padding-right: 150px;
+    margin-left: 680px;
 }
 
 .banner-btn{
     background-color: #F15B22;
     border: 0;
     color: #fff;
+/* banner item align right draft */
+    margin-right: 150px;
+    margin-left: 500px;
 }
 
 .banner-btn:hover{
