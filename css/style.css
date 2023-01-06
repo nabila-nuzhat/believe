@@ -16,7 +16,13 @@ a{
 header{
     background-image: url('../images/banner/banner1.png');
     background-size: cover;
-    background-repeat: no-repeat;}
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.banner{
+    padding: 216px 230px 186px 0;
+}
 
 .btn-primary{
     font-size: 20px;
