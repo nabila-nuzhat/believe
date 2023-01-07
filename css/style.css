@@ -82,3 +82,11 @@ header{
     color: #151414;
     margin-bottom: 24px;
 }
+
+.prev-description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 24px;
+}
