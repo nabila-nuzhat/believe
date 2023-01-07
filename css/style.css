@@ -8,7 +8,7 @@ a{
 }
 
 .common-width{
-    width: 1141px;
+    width: 1140px;
 }
 
 .btn-primary{
@@ -66,3 +66,6 @@ header{
     background-color: #f19722;
 }
 
+.previous-year{
+    display: flex;
+}
