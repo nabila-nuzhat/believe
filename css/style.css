@@ -88,10 +88,19 @@ header{
     margin-bottom: 24px;
 }
 
-.prev-description{
+.prev-description,
+.prev-list li{
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
     color: #444343;
     margin-bottom: 24px;
+}
+
+.prev-list{
+    list-style-type: none;
+}
+
+.prev-list li i{
+    color: #16D887;
 }
