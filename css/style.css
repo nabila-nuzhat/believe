@@ -73,6 +73,11 @@ header{
 .previous-year{
     display: flex;
     justify-content: space-between;
+    gap: 87px;
+}
+
+.previous-year-content{
+    margin-top: 240px;
 }
 
 .prev-title{
